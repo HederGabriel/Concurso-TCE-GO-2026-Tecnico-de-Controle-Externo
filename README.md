@@ -81,7 +81,8 @@ O arquivo organiza:
 
 Este é o principal arquivo utilizado como **mapa de estudos** do conteúdo da prova.
 
-### 📁 `Estudo/`
+### 📁 [`Estudo/`](Conteúdo/Estudo/)
+#### [`Cronograma-Semanal-TCE-GO-B02`](Conteúdo/Estudo/Cronograma-Semanal-TCE-GO-B02.md)
 
 Pasta destinada às **anotações, explicações, resumos e materiais de estudo** de cada bloco.
 
