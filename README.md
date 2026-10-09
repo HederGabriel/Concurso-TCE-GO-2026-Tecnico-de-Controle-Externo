@@ -45,6 +45,17 @@ O repositório será atualizado conforme o andamento da preparação e a publica
 │   ├── 📄 Edital n° 01-2026.pdf
 │   └── 📄 Edital Nº 02-2026 - DE RETIFICAÇÃO.pdf
 │
+├── 📁 Provas/
+│   ├── 📁 Técnico - 2009/
+│   │   ├── 📄 Prova.pdf
+│   │   └── 📄 Gabarito.pdf
+│   │
+│   ├── 📁 Analista 2022/
+│   │   ├── 📄 Prova.pdf
+│   │   └── 📄 Gabarito.pdf
+│   │
+│   └── 📁 .../
+|
 ├── 📁 Resumo da Prova/
 │   └── 📄 Resumo-Sobre-Prova.md
 │
