@@ -37,9 +37,9 @@ O repositório será atualizado conforme o andamento da preparação e a publica
 │   ├── 📄 TCE_GO_2026_B02_conteudo_organizado.md
 │   │
 │   └── 📁 Estudo/
-│       ├── 📄 Bloco de Estudo 1.md
-│       ├── 📄 Bloco de Estudo 2.md
-│       └── 📄 ...
+│       ├── 📁 Bloco de Estudo 1.md
+│       ├── 📁 Bloco de Estudo 2.md
+│       └── 📁 ...
 │
 ├── 📁 Editais/
 │   ├── 📄 Edital n° 01-2026.pdf
