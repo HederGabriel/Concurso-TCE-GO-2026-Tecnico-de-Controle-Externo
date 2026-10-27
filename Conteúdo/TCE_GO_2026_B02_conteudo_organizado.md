@@ -722,7 +722,7 @@ Use os emojis ao lado de cada conteúdo para decidir a ordem de estudo. O `[ ]` 
 ### Windows e Linux
 
 - [x] 🟠 Sistemas operacionais Windows.
-- [ ] 🔥 Sistemas operacionais Linux.
+- [x] 🔥 Sistemas operacionais Linux.
 - [ ] 🟠 Administração básica.
 - [ ] 🟠 Gerenciamento de processos.
 - [ ] 🟠 Gerenciamento de memória.
@@ -730,7 +730,7 @@ Use os emojis ao lado de cada conteúdo para decidir a ordem de estudo. O `[ ]` 
 
 ### Shell e automação
 
-- [ ] 🔥 Comandos básicos de shell (Linux).
+- [x] 🔥 Comandos básicos de shell (Linux).
 - [ ] 🟠 Windows PowerShell.
 - [ ] 🟠 Automação por scripts.
 
@@ -746,7 +746,7 @@ Use os emojis ao lado de cada conteúdo para decidir a ordem de estudo. O `[ ]` 
 
 ### Redes
 
-- [ ] 🔥 Arquitetura TCP/IP.
+- [x] 🔥 Arquitetura TCP/IP.
 - [ ] 🔥 Endereçamento IPv4.
 - [ ] 🟠 Endereçamento IPv6.
 - [ ] 🔥 DNS.
@@ -754,8 +754,8 @@ Use os emojis ao lado de cada conteúdo para decidir a ordem de estudo. O `[ ]` 
 
 ### Protocolos
 
-- [ ] 🟠 HTTP/2.
-- [ ] 🟠 HTTP/3.
+- [x] 🟠 HTTP/2.
+- [x] 🟠 HTTP/3.
 - [ ] 🔥 HTTPS.
 - [ ] 🟠 SMTP.
 - [ ] 🟠 FTP.
