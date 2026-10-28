@@ -208,8 +208,8 @@ Use os emojis ao lado de cada conteúdo para decidir a ordem de estudo. O `[ ]` 
 ### Fundamentos e ciclo de vida
 
 - [ ] 🟡 Fundamentos da engenharia de software.
-- [ ] 🔥 Ciclo de vida de software.
-- [ ] 🔥 Abordagens de ciclo de vida preditiva, iterativa, incremental e adaptativa/ágil, inclusive suas combinações.
+- [x] 🔥 Ciclo de vida de software.
+- [x] 🔥 Abordagens de ciclo de vida preditiva, iterativa, incremental e adaptativa/ágil, inclusive suas combinações.
 
 ### Métodos e frameworks ágeis
 
