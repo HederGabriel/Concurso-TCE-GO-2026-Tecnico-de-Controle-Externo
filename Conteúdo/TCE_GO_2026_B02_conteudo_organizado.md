@@ -231,7 +231,7 @@ Use os emojis ao lado de cada conteúdo para decidir a ordem de estudo. O `[ ]` 
 
 ### Arquitetura e princípios
 
-- [ ] 🔥 Arquitetura de software.
+- [x] 🔥 Arquitetura de software.
 - [ ] 🟠 Padrões arquiteturais.
 - [ ] 🔥 Arquitetura em camadas.
 - [ ] 🟠 Arquitetura orientada a serviços (SOA).
