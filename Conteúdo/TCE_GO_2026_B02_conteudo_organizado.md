@@ -656,10 +656,10 @@ Use os emojis ao lado de cada conteúdo para decidir a ordem de estudo. O `[ ]` 
 
 ### Gestão de segurança
 
-- [ ] 🔥 Gestão de riscos.
-- [ ] 🔥 Gestão de vulnerabilidades.
-- [ ] 🔥 Gestão de incidentes de segurança.
-- [ ] 🟠 Classificação da informação.
+- [x] 🔥 Gestão de riscos.
+- [x] 🔥 Gestão de vulnerabilidades.
+- [x] 🔥 Gestão de incidentes de segurança.
+- [x] 🟠 Classificação da informação.
 
 ### Controle de acesso
 
