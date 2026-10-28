@@ -648,11 +648,11 @@ Use os emojis ao lado de cada conteúdo para decidir a ordem de estudo. O `[ ]` 
 
 ### Princípios
 
-- [ ] 🔥 Confidencialidade.
-- [ ] 🔥 Integridade.
-- [ ] 🔥 Disponibilidade.
-- [ ] 🔥 Autenticidade.
-- [ ] 🔥 Não repúdio.
+- [x] 🔥 Confidencialidade.
+- [x] 🔥 Integridade.
+- [x] 🔥 Disponibilidade.
+- [x] 🔥 Autenticidade.
+- [x] 🔥 Não repúdio.
 
 ### Gestão de segurança
 
