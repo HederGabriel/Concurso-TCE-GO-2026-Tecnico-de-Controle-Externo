@@ -575,9 +575,9 @@ Use os emojis ao lado de cada conteúdo para decidir a ordem de estudo. O `[ ]` 
 
 ### Aprendizado de máquina
 
-- [ ] 🔥 Aprendizado supervisionado.
-- [ ] 🔥 Aprendizado não supervisionado.
-- [ ] 🔥 Aprendizado por reforço.
+- [x] 🔥 Aprendizado supervisionado.
+- [x] 🔥 Aprendizado não supervisionado.
+- [x] 🔥 Aprendizado por reforço.
 
 ### Redes neurais e deep learning
 
@@ -587,7 +587,7 @@ Use os emojis ao lado de cada conteúdo para decidir a ordem de estudo. O `[ ]` 
 ### Linguagem e IA generativa
 
 - [ ] 🟠 Processamento de linguagem natural.
-- [ ] 🔥 Inteligência artificial generativa: conceitos e aplicações.
+- [x] 🔥 Inteligência artificial generativa: conceitos e aplicações.
 
 ### Agentes e multimodalidade
 
