@@ -8,7 +8,7 @@ Os modelos atuais (A partir de 2024) são **multimodais**, capazes de processar 
 
 - **Alucinação:** ocorre quando a IA gera informações incorretas ou inventadas, apresentando-as como verdadeiras.
 
-## LLMs – Large Language Models
+## [LLMs – Large Language Models](../Engenharia%20de%20Software%20Assistida%20por%20Inteligência%20Artificial%20e%20Sistemas%20Agentivos/llm.md)
 
 São grandes modelos de linguagem treinados com enormes volumes de dados para compreender e gerar textos, identificar padrões e responder a comandos.
 

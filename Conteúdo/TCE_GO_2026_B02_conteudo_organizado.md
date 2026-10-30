@@ -352,7 +352,7 @@ Use os emojis ao lado de cada conteúdo para decidir a ordem de estudo. O `[ ]` 
 ### IA aplicada ao desenvolvimento
 
 - [ ] 🟡 Fundamentos da inteligência artificial aplicada ao desenvolvimento de software.
-- [ ] 🔥 Modelos de linguagem de grande porte (Large Language Models – LLMs).
+- [x] 🔥 Modelos de linguagem de grande porte (Large Language Models – LLMs).
 
 ### Programação baseada em intenção e linguagem natural
 
