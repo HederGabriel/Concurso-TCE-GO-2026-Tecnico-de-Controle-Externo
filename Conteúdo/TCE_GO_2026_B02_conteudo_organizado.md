@@ -361,8 +361,8 @@ Use os emojis ao lado de cada conteúdo para decidir a ordem de estudo. O `[ ]` 
 
 ### Engenharia de contexto e prompts
 
-- [ ] 🔥 Engenharia de contexto aplicada ao desenvolvimento de software.
-- [ ] 🔥 Engenharia de prompts aplicada ao desenvolvimento de software.
+- [x] 🔥 Engenharia de contexto aplicada ao desenvolvimento de software.
+- [x] 🔥 Engenharia de prompts aplicada ao desenvolvimento de software.
 
 ### Sistemas agentivos
 
