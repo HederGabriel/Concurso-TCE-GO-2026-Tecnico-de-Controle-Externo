@@ -504,8 +504,8 @@ Use os emojis ao lado de cada conteúdo para decidir a ordem de estudo. O `[ ]` 
 
 ### SQL e álgebra relacional
 
-- [ ] 🔥 Álgebra relacional.
 - [x] 🔥 Linguagem SQL.
+- [x] 🔥 Álgebra relacional.
 
 ### Transações
 
