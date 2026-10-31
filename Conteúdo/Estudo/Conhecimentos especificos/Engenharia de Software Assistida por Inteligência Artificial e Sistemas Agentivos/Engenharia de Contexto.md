@@ -8,4 +8,3 @@ Uso de bases de dados para recuperar apenas informações relevantes para a tare
 
 ## Memória Semântica
 Implementação de uma "ferramenta" de memória que permite ao agente aprender sobre o usuário ao longo do tempo.
-f
