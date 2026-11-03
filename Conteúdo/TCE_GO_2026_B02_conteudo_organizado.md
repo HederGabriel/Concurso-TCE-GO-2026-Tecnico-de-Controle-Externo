@@ -749,17 +749,17 @@ Use os emojis ao lado de cada conteúdo para decidir a ordem de estudo. O `[ ]` 
 - [x] 🔥 Arquitetura TCP/IP.
 - [ ] 🔥 Endereçamento IPv4.
 - [ ] 🟠 Endereçamento IPv6.
-- [ ] 🔥 DNS.
-- [ ] 🔥 DHCP.
+- [x] 🔥 DNS.
+- [x] 🔥 DHCP.
 
 ### Protocolos
 
 - [x] 🟠 HTTP/2.
 - [x] 🟠 HTTP/3.
-- [ ] 🔥 HTTPS.
-- [ ] 🟠 SMTP.
-- [ ] 🟠 FTP.
-- [ ] 🟠 SSH.
+- [x] 🔥 HTTPS.
+- [x] 🟠 SMTP.
+- [x] 🟠 FTP.
+- [x] 🟠 SSH.
 
 ### Infraestrutura de rede
 
