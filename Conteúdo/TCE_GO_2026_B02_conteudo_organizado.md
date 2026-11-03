@@ -763,10 +763,10 @@ Use os emojis ao lado de cada conteúdo para decidir a ordem de estudo. O `[ ]` 
 
 ### Infraestrutura de rede
 
-- [ ] 🔥 VPN.
-- [ ] 🟠 Balanceamento de carga.
-- [ ] 🟠 Proxies.
-- [ ] 🔥 Firewalls.
+- [x] 🔥 VPN.
+- [x] 🟠 Balanceamento de carga.
+- [x] 🟠 Proxies.
+- [x] 🔥 Firewalls.
 - [ ] 🟠 Noções de redes sem fio.
 
 ### Computação em nuvem
