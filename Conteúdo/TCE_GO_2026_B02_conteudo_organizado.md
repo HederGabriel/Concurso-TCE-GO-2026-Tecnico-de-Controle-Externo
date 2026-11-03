@@ -747,8 +747,8 @@ Use os emojis ao lado de cada conteúdo para decidir a ordem de estudo. O `[ ]` 
 ### Redes
 
 - [x] 🔥 Arquitetura TCP/IP.
-- [ ] 🔥 Endereçamento IPv4.
-- [ ] 🟠 Endereçamento IPv6.
+- [x] 🔥 Endereçamento IPv4.
+- [x] 🟠 Endereçamento IPv6.
 - [x] 🔥 DNS.
 - [x] 🔥 DHCP.
 
