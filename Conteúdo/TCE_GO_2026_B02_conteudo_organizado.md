@@ -663,9 +663,9 @@ Use os emojis ao lado de cada conteúdo para decidir a ordem de estudo. O `[ ]` 
 
 ### Controle de acesso
 
-- [ ] 🔥 Autenticação.
-- [ ] 🔥 Autorização.
-- [ ] 🔥 Gestão de identidades (IAM).
+- [x] 🔥 Autenticação.
+- [x] 🔥 Autorização.
+- [x] 🔥 Gestão de identidades (IAM).
 
 ### Criptografia e certificação
 
