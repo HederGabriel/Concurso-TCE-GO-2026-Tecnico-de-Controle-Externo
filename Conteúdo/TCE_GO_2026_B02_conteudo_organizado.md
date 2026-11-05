@@ -500,7 +500,7 @@ Use os emojis ao lado de cada conteúdo para decidir a ordem de estudo. O `[ ]` 
 
 - [x] 🔥 Modelo entidade-relacionamento.
 - [x] 🔥 Normalização.
-- [ ] 🔥 Desnormalização.
+- [x] 🔥 Desnormalização.
 
 ### SQL e álgebra relacional
 
@@ -509,13 +509,13 @@ Use os emojis ao lado de cada conteúdo para decidir a ordem de estudo. O `[ ]` 
 
 ### Transações
 
-- [ ] 🟠 Transações.
-- [ ] 🟠 Propriedades ACID.
+- [x] 🟠 Transações.
+- [x] 🟠 Propriedades ACID.
 
 ### Desempenho
 
-- [ ] 🟠 Índices.
-- [ ] 🟠 Otimização de consultas.
+- [x] 🟠 Índices.
+- [x] 🟠 Otimização de consultas.
 
 ### Objetos de banco
 
