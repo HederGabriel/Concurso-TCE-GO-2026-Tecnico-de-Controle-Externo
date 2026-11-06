@@ -596,9 +596,9 @@ Use os emojis ao lado de cada conteúdo para decidir a ordem de estudo. O `[ ]` 
 
 ### Prompts, contexto e RAG
 
-- [ ] 🔥 Recuperação aumentada por geração (RAG).
 - [x] 🔥 Engenharia de prompts.
 - [x] 🔥 Engenharia de contexto.
+- [x] 🔥 Recuperação aumentada por geração (RAG).
 
 ### Aplicações
 
