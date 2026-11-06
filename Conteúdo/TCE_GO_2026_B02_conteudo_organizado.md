@@ -24,22 +24,22 @@ Use os emojis ao lado de cada conteúdo para decidir a ordem de estudo. O `[ ]` 
 
 ### Ordem recomendada das disciplinas
 
-| Ordem | Disciplina | Questões | Prioridade |
-|---:|---|---:|---|
-| 1 | Desenvolvimento de Sistemas | 5 | 🔥 |
-| 2 | Sistemas Operacionais, Redes e Computação em Nuvem | 5 | 🔥 |
-| 3 | Segurança da Informação | 4 | 🔥 |
-| 4 | Banco de Dados | 4 | 🔥 |
-| 5 | Engenharia de Software | 4 | 🔥 |
-| 6 | Língua Portuguesa | 10 | 🔥 |
-| 7 | Inteligência Artificial, Ciência de Dados e Automação | 5 | 🟠 |
-| 8 | Engenharia de Software Assistida por Inteligência Artificial e Sistemas Agentivos | 4 | 🟠 |
-| 9 | Governança de Tecnologia da Informação | 4 | 🟠 |
-| 10 | Matemática e Raciocínio Lógico | 10 | 🟠 |
-| 11 | DevOps, Plataforma de Desenvolvimento e Engenharia de Entrega | 4 | 🟠 |
-| 12 | Legislação Aplicada à Tecnologia da Informação | 4 | 🟠 |
-| 13 | Legislação Institucional | 5 | 🟡 |
-| 14 | Língua Inglesa (Leitura Técnica) | 2 | 🟢 |
+| Ordem | Disciplina                                                                        | Questões | Prioridade |
+| ----: | --------------------------------------------------------------------------------- | -------: | ---------- |
+|     1 | Desenvolvimento de Sistemas                                                       |        5 | 🔥          |
+|     2 | Sistemas Operacionais, Redes e Computação em Nuvem                                |        5 | 🔥          |
+|     3 | Segurança da Informação                                                           |        4 | 🔥          |
+|     4 | Banco de Dados                                                                    |        4 | 🔥          |
+|     5 | Engenharia de Software                                                            |        4 | 🔥          |
+|     6 | Língua Portuguesa                                                                 |       10 | 🔥          |
+|     7 | Inteligência Artificial, Ciência de Dados e Automação                             |        5 | 🟠          |
+|     8 | Engenharia de Software Assistida por Inteligência Artificial e Sistemas Agentivos |        4 | 🟠          |
+|     9 | Governança de Tecnologia da Informação                                            |        4 | 🟠          |
+|    10 | Matemática e Raciocínio Lógico                                                    |       10 | 🟠          |
+|    11 | DevOps, Plataforma de Desenvolvimento e Engenharia de Entrega                     |        4 | 🟠          |
+|    12 | Legislação Aplicada à Tecnologia da Informação                                    |        4 | 🟠          |
+|    13 | Legislação Institucional                                                          |        5 | 🟡          |
+|    14 | Língua Inglesa (Leitura Técnica)                                                  |        2 | 🟢          |
 
 > **Como interpretar:** a prioridade combina a quantidade de questões do edital, o peso dos Conhecimentos Específicos e a recorrência dos assuntos nas provas analisadas. Não é uma previsão exata das questões que aparecerão na prova.
 
