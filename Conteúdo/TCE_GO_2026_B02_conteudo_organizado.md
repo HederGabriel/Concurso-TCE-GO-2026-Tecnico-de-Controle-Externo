@@ -591,8 +591,8 @@ Use os emojis ao lado de cada conteúdo para decidir a ordem de estudo. O `[ ]` 
 
 ### Agentes e multimodalidade
 
-- [ ] 🟠 Agentes inteligentes.
 - [ ] 🟠 Modelos multimodais.
+- [x] 🟠 Agentes inteligentes.
 
 ### Prompts, contexto e RAG
 
