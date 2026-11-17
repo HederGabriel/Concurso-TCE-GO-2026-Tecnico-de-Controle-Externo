@@ -771,12 +771,12 @@ Use os emojis ao lado de cada conteúdo para decidir a ordem de estudo. O `[ ]` 
 
 ### Computação em nuvem
 
-- [ ] 🟠 Computação serverless.
-- [ ] 🟠 Escalabilidade.
-- [ ] 🟠 Alta disponibilidade.
 - [x] 🔥 Modelos IaaS.
 - [x] 🔥 Modelos PaaS.
 - [x] 🔥 Modelos SaaS.
+- [x] 🟠 Computação serverless.
+- [x] 🟠 Escalabilidade.
+- [x] 🟠 Alta disponibilidade.
 - [ ] 🟡 Integração entre ambientes locais e nuvem.
 - [ ] 🟠 Monitoramento de infraestrutura.
 
