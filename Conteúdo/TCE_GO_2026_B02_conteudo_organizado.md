@@ -677,9 +677,9 @@ Use os emojis ao lado de cada conteúdo para decidir a ordem de estudo. O `[ ]` 
 
 ### Segurança de aplicações
 
-- [ ] 🔥 OWASP Top 10:2025.
+- [x] 🔥 OWASP Top 10:2025.
 - [ ] 🟠 Boas práticas de codificação segura (DevSecOps).
-- [ ] 🔥 Segurança em APIs.
+- [x] 🔥 Segurança em APIs.
 - [ ] 🟠 Segurança em containers.
 - [ ] 🟠 Segurança em ambientes de nuvem.
 
@@ -698,11 +698,11 @@ Use os emojis ao lado de cada conteúdo para decidir a ordem de estudo. O `[ ]` 
 
 ### Infraestrutura de segurança
 
-- [ ] 🔥 Firewalls.
+- [x] 🔥 Firewalls.
 - [ ] 🟠 Antivírus.
-- [ ] 🔥 IDS/IPS.
-- [ ] 🔥 Testes de invasão.
-- [ ] 🔥 Análise de vulnerabilidades.
+- [x] 🔥 IDS/IPS.
+- [x] 🔥 Testes de invasão.
+- [x] 🔥 Análise de vulnerabilidades.
 
 ### Modelos e normas
 
