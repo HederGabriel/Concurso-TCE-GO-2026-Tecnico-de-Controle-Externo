@@ -669,8 +669,8 @@ Use os emojis ao lado de cada conteúdo para decidir a ordem de estudo. O `[ ]` 
 
 ### Criptografia e certificação
 
-- [ ] 🔥 Criptografia simétrica.
-- [ ] 🔥 Criptografia assimétrica.
+- [x] 🔥 Criptografia simétrica.
+- [x] 🔥 Criptografia assimétrica.
 - [ ] 🟠 Infraestrutura de chaves públicas.
 - [ ] 🟠 Certificados.
 - [ ] 🟠 Assinatura digital.
