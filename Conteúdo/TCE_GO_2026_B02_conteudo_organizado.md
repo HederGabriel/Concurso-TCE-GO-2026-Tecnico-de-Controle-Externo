@@ -431,10 +431,10 @@ Use os emojis ao lado de cada conteúdo para decidir a ordem de estudo. O `[ ]` 
 
 ### CI/CD e pipelines
 
-- [ ] 🔥 Integração, entrega e implantação contínuas (CI/CD).
-- [ ] 🔥 Pipelines de desenvolvimento.
-- [ ] 🟡 Automação de build.
-- [ ] 🟡 Automação de testes.
+- [x] 🔥 Integração, entrega e implantação contínuas (CI/CD).
+- [x] 🔥 Pipelines de desenvolvimento.
+- [x] 🟡 Automação de build.
+- [x] 🟡 Automação de testes.
 
 ### Infraestrutura e configuração
 
